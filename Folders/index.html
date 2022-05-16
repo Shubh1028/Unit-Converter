@@ -10,31 +10,31 @@
         <div class="container">
             <div class="header">
                 <span>Metrical/Imperical Unit Converter</span>
-                <input type="text"/>
+                <input type="text" id="input-text" onchange="getValue()"/>
             </div>
             <div class="section">
                 <div class="length">
                     <span>
                         Length(Meter/Feet)
                     </span>
-                    <span class="units">
+                    <span class="units" id="length-data">
                         0 meters = 0.000 feet | 0 feet = 0.000 meters
                       </span>
                 </div>
                 <div class="volume">
                     <span>
-                        Length(Meter/Feet)
+                        Volume(Litres/Gallons)
                     </span>
-                    <span class="units">
-                        0 meters = 0.000 feet | 0 feet = 0.000 meters
+                    <span class="units" id="volume-data">
+                        0 litres = 0.000 gallons | 0 gallons = 0.000 litres
                       </span>
                 </div>
                 <div class="mass">
                     <span>
-                        Length(Meter/Feet)
+                        Mass(Kilograms/Pounds)
                     </span>
-                    <span class="units">
-                        0 meters = 0.000 feet | 0 feet = 0.000 meters
+                    <span class="units" id="mass-data">
+                        0 kilos = 0.000 pounds | 0 pounds = 0.000 kilos
                       </span>
                 </div>
             </div>
