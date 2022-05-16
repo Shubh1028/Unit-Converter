@@ -4,7 +4,8 @@
  2. Litres into Gallons and vice versa.
  3. Kilograms into Pounds and vice versa.
 
-![image](https://user-images.githubusercontent.com/60169667/168581479-0db49b31-9cda-4ed5-bb71-c5e2dcd6337d.png)
+![image](https://user-images.githubusercontent.com/60169667/168581896-df7b5676-7404-488b-b36e-16cab328cb73.png)
 
-![image](https://user-images.githubusercontent.com/60169667/168581589-7f9e81c0-0da2-4bcd-a2d6-3a9c4f265210.png)
+
+![image](https://user-images.githubusercontent.com/60169667/168581806-91a010d2-371e-4d15-b83b-d107a1d4656b.png)
 
